@@ -83,7 +83,7 @@ Basic tests for scalability.py
 Run with: pytest
 """
 
-from core import scalability
+from core import scalability!
 
 def test_batch_sum():
     assert scalability.batch_sum([1,2,3,4,5], 2) == [3,7,5]
