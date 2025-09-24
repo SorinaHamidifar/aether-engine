@@ -16,7 +16,7 @@ from core import innovation, scalability
 
 def run():
     print("🚀 Welcome to the Dynamic Innovation Hub")
-    print("⚡ Experimentatio | 💡 Innovation | 📈 Scalability\n")
+    print("⚡ Experimentation | 💡 Innovation | 📈 Scalability\n")
 
     # Show off features
     print("💡 Innovative Idea (palindrome check):", innovation.is_palindrome("radar"))
