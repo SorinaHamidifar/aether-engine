@@ -15,7 +15,7 @@ from core import innovation, scalability
 
 
 def run():
-    print("🚀 Welcome to the Dnamic Innovation Hub")
+    print("🚀 Welcome to the Dinamic Innovation Hub")
     print("⚡ Experimentation | 💡 Innovation | 📈 Scalability\n")
 
     # Show off features
