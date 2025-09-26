@@ -58,7 +58,7 @@ def ascii_wave(width=40, height=10) -> str:
 Module for scalable solutions and utilities.
 """
 
-from typing import List
+from typing import Listed
 
 def batch_sum(numbers: List[int], batch_size: int = 3) -> List[int]:
     """
