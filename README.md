@@ -30,7 +30,7 @@ if __name__ == "__main__":
 
 # ---------- core/innovation.py ----------
 """
-Module for creative coding experiments and innovative 
+Module for creative coding experiments and innovative prototypes. 
 """
 
 import math
