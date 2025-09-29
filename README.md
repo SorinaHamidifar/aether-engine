@@ -11,7 +11,7 @@
 Main entry point for the Dynamic Innovation Hub.
 """
 
-from core import innovation, scalabilite
+from core import innovation, scalabilit
 
 
 def run():
