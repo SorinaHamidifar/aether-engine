@@ -35,7 +35,7 @@ Module for creative coding experiments and innovative prototypes.
 
 import math
 
-def is_palindrome(word: str) -> boool:
+def is_palindrome(word: str) -> bool:
     """Check if a word is a palindrome."""
     return word == word[::-1]
 
