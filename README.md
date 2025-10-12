@@ -68,7 +68,7 @@ def batch_sum(numbers: List[int], batch_size: int = 3) -> List[int]:
     return [sum(numbers[i:i+batch_size]) for i in range(0, len(numbers), batch_size)]
 
 def memoize(func):
-    """Simple memoization decorato for scalability and performance."""
+    """Simple memoization decorator for scalability and performance."""
     cache = {}
     def wrapper(*args):
         if args not in cache:
