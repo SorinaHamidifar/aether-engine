@@ -40,7 +40,7 @@ def is_palindrome(word: str) -> bool:
     return word == word[::-1]
 
 def ascii_wave(width=40, height=10) -> str:
-    """Generate a simple ASCII wave pattern."""
+    """Generate a simple ASC wave pattern."""
     wave = ""
     for y in range(height):
         line = ""
