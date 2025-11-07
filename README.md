@@ -60,7 +60,7 @@ Module for scalable solutions and utilities.
 
 from typing import List
 
-def batch_sum(numbers: List[int], : int = 3) -> List[int]:
+def batch_sum(numbers: List[int], batch: int = 3) -> List[int]:
     """
     Split numbers into batches and compute sum for each batch.
     Example: [1,2,3,4,5], batch_size=2 -> [3,9]
