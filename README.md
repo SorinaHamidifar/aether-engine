@@ -8,7 +8,7 @@
 
 # ---------- main.py ----------
 """
-Main entry points for the Dynamic Innovation Hub.
+Main entry point for the Dynamic Innovation Hub.
 """
 
 from core import innovation, scalability 
