@@ -1,5 +1,5 @@
 # ===============================
-# Project: Dynamic Innovation Hubzx
+# Project: Dynamic Innovation Hubz
 # Description:
 # A dynamic repository built to power experimentation, innovation,
 # and scalable code. Designed as a foundation for future projects,
