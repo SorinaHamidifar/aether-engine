@@ -55,7 +55,7 @@ def ascii_wave(width=40, height=10) -> str:
 
 # ---------- core/scalability.py ----------
 """
-Module for scalable  and utilities.
+Module for scalable sol and utilities.
 """
 
 from typing import List
