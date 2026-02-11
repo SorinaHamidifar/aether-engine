@@ -19,7 +19,7 @@ def run():
     print("⚡ Experimentation | 💡 Innovation | 📈 Scalability\n") 
 
     # Show off features
-    print("💡 Innovative Idea (palindrome check):", innovation.is_palindrome("radar"))
+    print("💡 Innovative Idea ( check):", innovation.is_palindrome("radar"))
     print("⚡ Creative Experiment (ASCII art):\n", innovation.ascii_wave(30))
     print("📈 Scalable Utility (batch sum):", scalability.batch_sum([1, 2, 3, 4, 5], batch_size=2))
 
