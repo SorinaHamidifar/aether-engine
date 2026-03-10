@@ -1,7 +1,7 @@
 # ===============================
 # Project: Dynamic Innovation Hub
 # Description:
-# A dynamics repository built to power experimentation, innovation,
+# A dynami repository built to power experimentation, innovation,
 # and scalable code. Designed as a foundation for future projects,
 # blending creativity with strength to drive impactful development.
 # ================================
