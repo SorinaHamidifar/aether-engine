@@ -1,5 +1,5 @@
 # ===============================
-# Project: Dynamic Innovation Hub memoization 
+# Project: Dynamic Innovation Hub memoization decorator
 # Description:
 # A dynamic repository built to power experimentation, innovation,
 # and scalable code. Designed as a foundation for future projects,
