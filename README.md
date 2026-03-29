@@ -1,5 +1,5 @@
 # ===============================
-# Project: Dynamic Innovation Hub memoiza
+# Project: Dynamic Innovation Hub memoizatt
 # Description:
 # A dynamic repository built to power experimentation, innovation,
 # and scalable code. Designed as a foundation for future projects,
