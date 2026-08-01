@@ -1,5 +1,5 @@
 # ===============================
-# Project: Main entry point for  Dynamic Innovation Hub
+# Project: Main entry point   Dynamic Innovation Hub
 # Description:
 # A dynamic repository built to power experimentation, innovation,
 # and scalable code. Designed as a foundation for future projects,
