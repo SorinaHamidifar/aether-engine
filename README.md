@@ -3,7 +3,7 @@
 # Description:
 # A dynamic repository built to power experimentation, innovation,
 # and scalable code. Designed as a foundation for future projects,
-# blending creativity with strength to dr
+# blending creativity with strength to drive
 # ================================
 
 # ---------- main.py ----------
