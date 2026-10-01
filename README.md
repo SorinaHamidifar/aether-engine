@@ -1,5 +1,5 @@
 # ===============================
-# Project: Dynamic Innovation Hub  Designed as a foundation for 
+# Project: Dynamic Innovation Hub  Designed as a foundation  
 # Description:
 # A dynamic repository built to power experimentation, innovation,
 # and scalable code. Designed as a foundation for future projects,
