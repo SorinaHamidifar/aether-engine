@@ -1,5 +1,5 @@
 # ===============================
-# Project: Dynamic Innovation Hub to drive im
+# Project: Dynamic Innovation Hub to drive 
 # Description:
 # A dynamic repository built to power experimentation, innovation,
 # and scalable code. Designed as a foundation for future projects,
